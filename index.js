@@ -1,4 +1,4 @@
-import { artistForFun, artistTypes } from "./data/ArtistForFun.js";
+import { artistForFun, artistTypes } from "./data/artistForFun.js";
 import { cardElGen, cardListGen, buttonGen } from "./modules/components.js";
 
 
